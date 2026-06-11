@@ -1,0 +1,9 @@
+{
+	"modules-left": [
+	    "river/tags"
+	],
+	"modules-right": [
+		"clock",
+		"tray"	
+	],
+}
